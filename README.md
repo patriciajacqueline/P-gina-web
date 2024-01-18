@@ -1,2 +1,2 @@
 # Pagina_web
-Pagina web de mi CV https://patriciajacqueline.github.io/Pagina-web/
+Pagina web de mi CV
