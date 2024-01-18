@@ -1,2 +1,2 @@
-# P-gina-web
-Pagina web de mi CV
+# Pagina_web
+Pagina web de mi CV https://patriciajacqueline.github.io/P-gina-web/
